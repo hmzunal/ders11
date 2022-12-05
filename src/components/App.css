@@ -1,0 +1,8 @@
+.uyari {background-color: rgb(145, 45, 45);
+color: white;
+
+}
+
+.basarili{background-color: rgb(67, 67, 182); color: white;}
+
+.uyari, .basarili{padding:1rem; border-radius: 10px;}
